@@ -10,7 +10,6 @@ public class StringPlay {
 	public static void main(String[] args) {
 		String college = new String("USC Upstate College");
 		String town = "Anytown, USA";
-		System.out.println(town);
 		
 		int len = college.length();
 		System.out.println("Length : " + len);
