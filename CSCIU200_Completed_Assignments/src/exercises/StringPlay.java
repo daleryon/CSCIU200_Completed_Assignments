@@ -24,6 +24,7 @@ public class StringPlay {
 		change3 = college.concat(town);
 		System.out.println(change3);
 
+		// completed
 		// (a) declare the variable town as a reference to a String
 		// object and initialize it to "Anytown, USA".
 
